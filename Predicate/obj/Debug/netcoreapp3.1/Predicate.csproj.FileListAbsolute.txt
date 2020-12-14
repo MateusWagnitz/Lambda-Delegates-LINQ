@@ -1,0 +1,12 @@
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\bin\Debug\netcoreapp3.1\Predicate.exe
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\bin\Debug\netcoreapp3.1\Predicate.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\bin\Debug\netcoreapp3.1\Predicate.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\bin\Debug\netcoreapp3.1\Predicate.dll
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\bin\Debug\netcoreapp3.1\Predicate.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\obj\Debug\netcoreapp3.1\Predicate.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\obj\Debug\netcoreapp3.1\Predicate.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\obj\Debug\netcoreapp3.1\Predicate.dll
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\obj\Debug\netcoreapp3.1\Predicate.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Predicate\obj\Debug\netcoreapp3.1\Predicate.genruntimeconfig.cache

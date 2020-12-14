@@ -1,0 +1,13 @@
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\bin\Debug\netcoreapp3.1\Multicast-Delegate.exe
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\bin\Debug\netcoreapp3.1\Multicast-Delegate.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\bin\Debug\netcoreapp3.1\Multicast-Delegate.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\bin\Debug\netcoreapp3.1\Multicast-Delegate.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\bin\Debug\netcoreapp3.1\Multicast-Delegate.dll
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\bin\Debug\netcoreapp3.1\Multicast-Delegate.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\obj\Debug\netcoreapp3.1\Multicast-Delegate.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\obj\Debug\netcoreapp3.1\Multicast-Delegate.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\obj\Debug\netcoreapp3.1\Multicast-Delegate.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\obj\Debug\netcoreapp3.1\Multicast-Delegate.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\obj\Debug\netcoreapp3.1\Multicast-Delegate.dll
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\obj\Debug\netcoreapp3.1\Multicast-Delegate.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\17 - Expressões lambda, delegates, LINQ\Lambda-Delegate-LINQ\Multicast-Delegate\obj\Debug\netcoreapp3.1\Multicast-Delegate.genruntimeconfig.cache
